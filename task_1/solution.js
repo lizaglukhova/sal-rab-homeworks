@@ -26,7 +26,7 @@ function addInCartCountChange(value) {
 
     let newValue = oldValue; // создайте переменную newValue
     // присвойте ей значение oldValue
-    message = +1;// увеличьте значение newValue на 1
+    newValue = +1;// увеличьте значение newValue на 1
 
     // Конец решения задания №1.2.
 
